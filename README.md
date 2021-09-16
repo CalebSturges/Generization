@@ -5,6 +5,7 @@ Python NLP repo to combine sets of words into more generic forms.
 from Generization import Generisize
 
 ouput = Generisize(['husband, wife'])
+
 print(output) #spouse
 
 
